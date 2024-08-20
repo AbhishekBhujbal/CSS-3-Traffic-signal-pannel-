@@ -1,0 +1,31 @@
+#id1{
+    height: 400px;
+    width: 150px;
+    background-color:rgb(78, 78, 165);
+    padding: 20px;
+    border-radius: 35px;
+    
+}
+#id2{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(183, 46, 19);
+    border-radius: 50%;
+    margin: 25px;
+    
+}
+#id3{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(188, 221, 69);
+    border-radius: 50%;
+    margin: 25px;
+    
+}
+#id4{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(15, 121, 47);
+    border-radius: 50%;
+    margin: 25px;
+}
